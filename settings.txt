@@ -1,0 +1,14 @@
+{
+    "autoDocstring.customTemplatePath": "C:\\config\\python_autodoc.mustache",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "terminal.integrated.gpuAcceleration": "off",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.views.fileHistory.avatars": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "python.languageServer": "Pylance"
+}
